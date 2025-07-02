@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
        
         <h2>
-          Text Recognition Software Hopefully....
+          Optical Character Recognition....
         </h2>
         <ImageUploader setSelectedImage = {setSelectedImage}/>
         <TextRecognition selectedImage = {selectedImage}/>
